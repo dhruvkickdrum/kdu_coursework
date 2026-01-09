@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="775f2c71-c4f7-4880-bdaf-176c55c560b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/controller/AuthController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/dto/LoginRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/dto/LoginResponseDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/dto/RegisterUserRequestDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/security/AuditLogger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/security/JwtAuthFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/security/JwtService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/security/RestAccessDeniedHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/security/RestAuthenticationEntryPoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/service/AuthService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/talentPortal/src/main/java/com/dhruv/talentportal/service/UserStore.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "git-widget-placeholder": "4__Spring__Security__and__JWT",
+    "node.js.selected.package.tslint": "(autodetect)"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <servers />
+  </component>
+</project>
